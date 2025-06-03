@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragdevnath
 - 👀 I’m interested in software developement.
 - 🌱 I’m currently working as a Software Engineer at Arosys Techonologies.
-- 📫 How to reach me : you can mail me on my email- devnathanurag7@gmail.com
+- 📫 How to reach me : you can mail me on my email- anurag.softnet@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a freelancer artist and I do comission artworks. you can find me on instagram @anurag.sketches
 
